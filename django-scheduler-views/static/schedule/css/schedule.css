@@ -172,6 +172,7 @@ td.daynumber div.eventcell {
 td.daynumber div.starttime {
     float:left;
     width:40px;
+    padding-right:1px;
 }
 
 td.daynumber div.eventdesc {
